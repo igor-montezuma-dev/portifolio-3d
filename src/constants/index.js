@@ -100,13 +100,13 @@ export const myProjects = [
         ],
     },
     {
-        title: 'LiveDoc - Real-Time Google Docs Clone',
-        desc: 'LiveDoc is a powerful collaborative app that elevates the capabilities of real-time document editing. As an enhanced version of Google Docs, It supports millions of collaborators simultaneously, ensuring that every change is captured instantly and accurately.',
+        title: 'NgFlix - Confira os últimos lançamentos',
+        desc: 'Este projeto foi criado com o objetivo de explorar as potencialidades do Angular, destacando sua versatilidade como framework completo para desenvolvimento web. A aplicação oferece aos usuários uma experiência intuitiva e prática para acessar informações detalhadas sobre filmes em cartaz.',
         subdesc:
-            'With LiveDoc, users can experience the future of collaboration, where multiple contributors work together in real time without any lag, by using Next.js and Liveblocks newest features.',
-        href: 'https://www.youtube.com/watch?v=y5vE8y_f_OM',
+            'Este projeto reafirma a flexibilidade do Angular, mostrando como ele pode transformar o ambiente de desenvolvimento com ferramentas poderosas e uma abordagem reativa e eficiente.',
+        href: 'https://angular-flix.vercel.app',
         texture: '/textures/project/project2.mp4',
-        logo: '/assets/project-logo2.png',
+        logo: '/assets/netflix-logo.png',
         logoStyle: {
             backgroundColor: '#13202F',
             border: '0.2px solid #17293E',
@@ -116,13 +116,13 @@ export const myProjects = [
         tags: [
             {
                 id: 1,
-                name: 'React.js',
-                path: '/assets/react.svg',
+                name: 'Angular',
+                path: '/assets/angular-logo.png',
             },
             {
                 id: 2,
-                name: 'TailwindCSS',
-                path: 'assets/tailwindcss.png',
+                name: 'Sass',
+                path: 'assets/sass-logo.png',
             },
             {
                 id: 3,
@@ -131,19 +131,19 @@ export const myProjects = [
             },
             {
                 id: 4,
-                name: 'Framer Motion',
-                path: '/assets/framer.png',
+                name: 'Rxjs',
+                path: '/assets/rxjs-logo.png',
             },
         ],
     },
     {
-        title: 'CarePulse - Health Management System',
-        desc: 'An innovative healthcare platform designed to streamline essential medical processes. It simplifies patient registration, appointment scheduling, and medical record management, providing a seamless experience for both healthcare providers and patients.',
+        title: 'Help Control - Plataforma Help Desk',
+        desc: 'Este projeto foi desenvolvido para explorar e aplicar os novos recursos do Next.js 14 em uma plataforma Help Desk Full Stack. A aplicação combina funcionalidades modernas de front e backend para oferecer uma experiência fluida e eficiente aos usuários.',
         subdesc:
-            'With a focus on efficiency, CarePulse integrantes complex forms and SMS notifications, by using Next.js, Appwrite, Twillio and Sentry that enhance operational workflows.',
-        href: 'https://www.youtube.com/watch?v=lEflo_sc82g',
+            'O projeto demonstra a versatilidade e o poder do Next.js 14, reforçando seu valor no mercado como uma ferramenta completa para o desenvolvimento de aplicações modernas e robustas.',
+        href: 'https://help-control.vercel.app',
         texture: '/textures/project/project3.mp4',
-        logo: '/assets/project-logo3.png',
+        logo: '/assets/computer-icon.png',
         logoStyle: {
             backgroundColor: '#60f5a1',
             background:
@@ -155,8 +155,8 @@ export const myProjects = [
         tags: [
             {
                 id: 1,
-                name: 'React.js',
-                path: '/assets/react.svg',
+                name: 'Next.js',
+                path: '/assets/nextjs.png',
             },
             {
                 id: 2,
@@ -170,19 +170,19 @@ export const myProjects = [
             },
             {
                 id: 4,
-                name: 'Framer Motion',
-                path: '/assets/framer.png',
+                name: 'MongoDB',
+                path: '/assets/mongo-db.png',
             },
         ],
     },
     {
-        title: 'Horizon - Online Banking Platform',
-        desc: 'Horizon is a comprehensive online banking platform that offers users a centralized finance management dashboard. It allows users to connect multiple bank accounts, monitor real-time transactions, and seamlessly transfer money to other users.',
+        title: 'Em breve',
+        desc: '...',
         subdesc:
-            'Built with Next.js 14 Appwrite, Dwolla and Plaid, Horizon ensures a smooth and secure banking experience, tailored to meet the needs of modern consumers.',
-        href: 'https://www.youtube.com/watch?v=PuOVqP_cjkE',
+            '...',
+        href: 'https://www.linkedin.com/in/igor-montezuma-dev/',
         texture: '/textures/project/project4.mp4',
-        logo: '/assets/project-logo4.png',
+        logo: '/assets/angular-logo.png',
         logoStyle: {
             backgroundColor: '#0E1F38',
             border: '0.2px solid #0E2D58',
@@ -190,36 +190,17 @@ export const myProjects = [
         },
         spotlight: '/assets/spotlight4.png',
         tags: [
-            {
-                id: 1,
-                name: 'React.js',
-                path: '/assets/react.svg',
-            },
-            {
-                id: 2,
-                name: 'TailwindCSS',
-                path: 'assets/tailwindcss.png',
-            },
-            {
-                id: 3,
-                name: 'TypeScript',
-                path: '/assets/typescript.png',
-            },
-            {
-                id: 4,
-                name: 'Framer Motion',
-                path: '/assets/framer.png',
-            },
+
         ],
     },
     {
-        title: 'Imaginify - AI Photo Manipulation App',
-        desc: 'Imaginify is a groundbreaking Software-as-a-Service application that empowers users to create stunning photo manipulations using AI technology. With features like AI-driven image editing, a payments system, and a credits-based model.',
+        title: 'Em breve',
+        desc: '...',
         subdesc:
-            'Built with Next.js 14, Cloudinary AI, Clerk, and Stripe, Imaginify combines cutting-edge technology with a user-centric approach. It can be turned into a side income or even a full-fledged business.',
-        href: 'https://www.youtube.com/watch?v=Ahwoks_dawU',
+            '...',
+        href: 'https://www.linkedin.com/in/igor-montezuma-dev/',
         texture: '/textures/project/project5.mp4',
-        logo: '/assets/project-logo5.png',
+        logo: '/assets/logo-react.png',
         logoStyle: {
             backgroundColor: '#1C1A43',
             border: '0.2px solid #252262',
@@ -227,26 +208,7 @@ export const myProjects = [
         },
         spotlight: '/assets/spotlight5.png',
         tags: [
-            {
-                id: 1,
-                name: 'React.js',
-                path: '/assets/react.svg',
-            },
-            {
-                id: 2,
-                name: 'TailwindCSS',
-                path: 'assets/tailwindcss.png',
-            },
-            {
-                id: 3,
-                name: 'TypeScript',
-                path: '/assets/typescript.png',
-            },
-            {
-                id: 4,
-                name: 'Framer Motion',
-                path: '/assets/framer.png',
-            },
+
         ],
     },
 ];
