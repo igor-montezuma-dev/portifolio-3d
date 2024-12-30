@@ -58,15 +58,15 @@ export const clientReviews = [
 
 export const myProjects = [
     {
-        title: 'Podcastr - AI Podcast Platform',
-        desc: 'Podcastr is a revolutionary Software-as-a-Service platform that transforms the way podcasts are created. With advanced AI-powered features like text-to-multiple-voices functionality, it allows creators to generate diverse voiceovers from a single text input.',
+        title: 'Chat.Io - Aplicação de chat em tempo real',
+        desc: 'Este projeto foi desenvolvido como parte de um estudo aprofundado sobre aplicações em tempo real utilizando Socket.io. Trata-se de uma aplicação full stack construída com React.js no frontend e Node.js no backend, projetada para oferecer uma experiência fluida e interativa para seus usuários.',
         subdesc:
-            'Built as a unique Software-as-a-Service app with Next.js 14, Tailwind CSS, TypeScript, Framer Motion and Convex, Podcastr is designed for optimal performance and scalability.',
-        href: 'https://www.youtube.com/watch?v=zfAb95tJvZQ',
+            'Este projeto é um exemplo prático e funcional da aplicação de conceitos modernos de desenvolvimento web, com foco em tecnologias em tempo real e usabilidade.',
+        href: 'https://chat-io-vzqv.onrender.com/login',
         texture: '/textures/project/project1.mp4',
-        logo: '/assets/project-logo1.png',
+        logo: '/assets/chat-io-logo.png',
         logoStyle: {
-            backgroundColor: '#2A1816',
+            backgroundColor: '#3D3244',
             border: '0.2px solid #36201D',
             boxShadow: '0px 0px 60px 0px #AA3C304D',
         },
@@ -89,9 +89,14 @@ export const myProjects = [
             },
             {
                 id: 4,
-                name: 'Framer Motion',
-                path: '/assets/framer.png',
+                name: 'Node.js',
+                path: '/assets/node.png',
             },
+            {
+                id: 5,
+                name: 'Socket.io',
+                path: '/assets/socket.png',
+            }
         ],
     },
     {
