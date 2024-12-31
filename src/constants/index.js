@@ -21,40 +21,7 @@ export const navLinks = [
     },
 ];
 
-export const clientReviews = [
-    {
-        id: 1,
-        name: 'Emily Johnson',
-        position: 'Marketing Director at GreenLeaf',
-        img: 'assets/review1.png',
-        review:
-            'Working with Adrian was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.',
-    },
-    {
-        id: 2,
-        name: 'Mark Rogers',
-        position: 'Founder of TechGear Shop',
-        img: 'assets/review2.png',
-        review:
-            'Adrian’s expertise in web development is truly impressive. He delivered a robust and scalable solution for our e-commerce site, and our online sales have significantly increased since the launch. He’s a true professional! Fantastic work.',
-    },
-    {
-        id: 3,
-        name: 'John Dohsas',
-        position: 'Project Manager at UrbanTech ',
-        img: 'assets/review3.png',
-        review:
-            'I can’t say enough good things about Adrian. He was able to take our complex project requirements and turn them into a seamless, functional website. His problem-solving abilities are outstanding.',
-    },
-    {
-        id: 4,
-        name: 'Ether Smith',
-        position: 'CEO of BrightStar Enterprises',
-        img: 'assets/review4.png',
-        review:
-            'Adrian was a pleasure to work with. He understood our requirements perfectly and delivered a website that exceeded our expectations. His skills in both frontend backend dev are top-notch.',
-    },
-];
+
 
 export const myProjects = [
     {
@@ -227,7 +194,7 @@ export const workExperiences = [
         pos: 'Front End Developer',
         duration: '2024 - Present',
         title: "Como desenvolvedor Front-End, atuo na implementação de novas features, manutenção e correção de bugs em aplicações de médio e grande porte. Atuo com a metodologia scrum para organização de tarefas e comunicação com a equipe.",
-        icon: '/assets/framer.svg',
+        icon: '/assets/crosoften_logo.jpg',
         animation: 'victory',
     },
     {
@@ -236,7 +203,7 @@ export const workExperiences = [
         pos: 'Full Stack Developer',
         duration: '2024',
         title: "Como desenvolvedor Full Stack atuo na implementação de novas features, manutenção e correção de bugs em aplicações de médio e grande porte. Atuo com a metodologia scrum para organização de tarefas e comunicação com a equipe.",
-        icon: '/assets/figma.svg',
+        icon: '/assets/ws_work_sistemas_logo.jpg',
         animation: 'clapping',
     },
     {
@@ -245,7 +212,7 @@ export const workExperiences = [
         pos: 'Android Developer',
         duration: '2022 - 2023',
         title: "",
-        icon: '/assets/notion.svg',
+        icon: '/assets/foursys_logo.jpg',
         animation: 'salute',
     },
 ];
