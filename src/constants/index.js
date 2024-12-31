@@ -63,7 +63,7 @@ export const myProjects = [
         subdesc:
             'Este projeto é um exemplo prático e funcional da aplicação de conceitos modernos de desenvolvimento web, com foco em tecnologias em tempo real e usabilidade.',
         href: 'https://chat-io-vzqv.onrender.com/login',
-        texture: '/textures/project/project1.mp4',
+        texture: '/textures/project/chat-io.png',
         logo: '/assets/chat-io-logo.png',
         logoStyle: {
             backgroundColor: '#3D3244',
@@ -105,7 +105,7 @@ export const myProjects = [
         subdesc:
             'Este projeto reafirma a flexibilidade do Angular, mostrando como ele pode transformar o ambiente de desenvolvimento com ferramentas poderosas e uma abordagem reativa e eficiente.',
         href: 'https://angular-flix.vercel.app',
-        texture: '/textures/project/project2.mp4',
+        texture: '/textures/project/ng-flix.png',
         logo: '/assets/netflix-logo.png',
         logoStyle: {
             backgroundColor: '#13202F',
@@ -142,7 +142,7 @@ export const myProjects = [
         subdesc:
             'O projeto demonstra a versatilidade e o poder do Next.js 14, reforçando seu valor no mercado como uma ferramenta completa para o desenvolvimento de aplicações modernas e robustas.',
         href: 'https://help-control.vercel.app',
-        texture: '/textures/project/project3.mp4',
+        texture: '/textures/project/help-control.png',
         logo: '/assets/computer-icon.png',
         logoStyle: {
             backgroundColor: '#60f5a1',
@@ -181,7 +181,7 @@ export const myProjects = [
         subdesc:
             '...',
         href: 'https://www.linkedin.com/in/igor-montezuma-dev/',
-        texture: '/textures/project/project4.mp4',
+        texture: '/textures/project/angular-logo.png',
         logo: '/assets/angular-logo.png',
         logoStyle: {
             backgroundColor: '#0E1F38',
@@ -189,9 +189,7 @@ export const myProjects = [
             boxShadow: '0px 0px 60px 0px #2F67B64D',
         },
         spotlight: '/assets/spotlight4.png',
-        tags: [
-
-        ],
+        tags: [],
     },
     {
         title: 'Em breve',
@@ -199,7 +197,7 @@ export const myProjects = [
         subdesc:
             '...',
         href: 'https://www.linkedin.com/in/igor-montezuma-dev/',
-        texture: '/textures/project/project5.mp4',
+        texture: '/textures/project/logo-react.png',
         logo: '/assets/logo-react.png',
         logoStyle: {
             backgroundColor: '#1C1A43',
@@ -207,9 +205,7 @@ export const myProjects = [
             boxShadow: '0px 0px 60px 0px #635BFF4D',
         },
         spotlight: '/assets/spotlight5.png',
-        tags: [
-
-        ],
+        tags: [],
     },
 ];
 
