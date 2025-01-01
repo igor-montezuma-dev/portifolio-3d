@@ -79,7 +79,7 @@ const About = () => {
                         </div>
                         <div>
                             <p className="grid-headtext">Aceito disafios que cruzam fronteiras</p>
-                            <p className="grid-subtext">Moro no Brasil e estou disposto a encaras novos desafios
+                            <p className="grid-subtext">Moro no Brasil e estou disposto a encarar novos desafios
                                 remotamente!</p>
                             <Button name="Entre em contato" isBeam containerClass="w-full mt-10"/>
                         </div>
@@ -90,8 +90,8 @@ const About = () => {
                         <img src="/assets/grid3.png" alt="grid-3" className="w-full sm:h-[266px] h-fit object-contain"/>
                         <div>
                             <p className="grid-headtext">Minha paixão por codar</p>
-                            <p className="grid-subtext">Amo resolver problemas, e crias soluções inovadoras atrés da
-                                programação. Programar não é apenas minha prifissão, é minha paixão.</p>
+                            <p className="grid-subtext">Amo resolver problemas, e criar soluções inovadoras através da
+                                programação. Programar não é apenas minha profissão, é minha paixão.</p>
                         </div>
                     </div>
                 </div>
