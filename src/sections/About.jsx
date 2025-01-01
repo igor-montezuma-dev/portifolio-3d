@@ -36,7 +36,7 @@ const About = () => {
                         <div>
                             <p className="grid-headtext">Olá! Eu sou o Igor!</p>
                             <p className="grid-subtext">Com 3 anos de experiência, tenho focado minhas habilidades no
-                                desenvilvimento de aplicações frontend e backend.</p>
+                                desenvolvimento de aplicações frontend e backend.</p>
                         </div>
                     </div>
                 </div>
