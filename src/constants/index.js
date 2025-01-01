@@ -19,6 +19,11 @@ export const navLinks = [
         name: 'Experiência',
         href: '#experience',
     },
+    {
+        id: 5,
+        name: 'Minhas redes',
+        href: '#socials',
+    }
 ];
 
 
@@ -186,6 +191,21 @@ export const calculateSizes = (isSmall, isMobile, isTablet) => {
         targetPosition: isSmall ? [-5, -10, -10] : isMobile ? [-9, -10, -10] : isTablet ? [-11, -7, -10] : [-13, -13, -10],
     };
 };
+
+export const socialLinks = [
+    {
+        id: 1,
+        name: 'LinkedIn',
+        icon: '/assets/linkedin.png',
+        href: 'https://www.linkedin.com/in/igor-montezuma-dev/',
+    },
+    {
+        id: 2,
+        name: 'GitHub',
+        icon: '/assets/github.png',
+        href: 'https://github.com/igor-montezuma-dev',
+    }
+];
 
 export const workExperiences = [
     {
