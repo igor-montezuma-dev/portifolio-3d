@@ -257,16 +257,26 @@ export const socialLinks = [
 export const workExperiences = [
   {
     id: 1,
+    name: "Mundo Midia",
+    pos: "Full Stack Developer",
+    duration: "2025 - Present",
+    title:
+      "Como desenvolvedor Full Stack, atuo na implementação de novas features, manutenção e correção de bugs em aplicações gerenciais. Atuo com a metodologia scrum para organização de tarefas e comunicação com a equipe.",
+    icon: "/assets/mundo_media.png",
+    animation: "victory",
+  },
+  {
+    id: 2,
     name: "CrosOften",
     pos: "Front End Developer",
-    duration: "2024 - Present",
+    duration: "2024 - 2025",
     title:
       "Como desenvolvedor Front-End, atuo na implementação de novas features, manutenção e correção de bugs em aplicações de médio e grande porte. Atuo com a metodologia scrum para organização de tarefas e comunicação com a equipe.",
     icon: "/assets/crosoften_logo.jpg",
     animation: "victory",
   },
   {
-    id: 2,
+    id: 3,
     name: "Ws Work",
     pos: "Full Stack Developer",
     duration: "2024",
@@ -276,7 +286,7 @@ export const workExperiences = [
     animation: "clapping",
   },
   {
-    id: 3,
+    id: 4,
     name: "Foursys",
     pos: "Android Developer",
     duration: "2022 - 2023",
